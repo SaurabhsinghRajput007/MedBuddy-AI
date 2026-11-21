@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+medical_memory.db*
+*.db-shm
+*.db-wal
+
+medical_memory.db*
+*.db-shm
+*.db-wal
