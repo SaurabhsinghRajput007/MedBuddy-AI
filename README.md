@@ -4,7 +4,10 @@ An educational medical assistant with retrieval from the bundled historical Gale
 
 ## Requirements
 Python 3.11 or 3.12; OpenAI, Pinecone, and Tavily API keys; internet connection. This is a tutorial reference implementation, **not** a clinically validated diagnostic system or HIPAA-compliant deployment.
-
+![Screenshot 1](Screenshot%202026-11-22%20064644.png)
+![Screenshot 2](Screenshot%202026-11-22%20064812.png)
+![Screenshot 3](Screenshot%202026-11-22%20064857.png)
+![Image](image.png)
 ## Start
 ```bash
 conda create -n project python=3.11 -y
